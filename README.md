@@ -1,2 +1,3 @@
 # My_Dotfiles_Hyprland
-Repo for dotfiles hyprland
+
+Welcome to my dotfiles for Hyprland
